@@ -1,4 +1,4 @@
-# [Проект Рекомендация тарифов мобильной связи](https://github.com/Ruzhaya/Data_science_projects/blob/main/project_1.ipynb)
+# [Проект Рекомендация тарифов мобильной связи](https://github.com/Ruzhaya/Data_science_projects/tree/main/Project_tariffs)
 Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Пороговое значение **accuracy** - не ниже 0,75.
 
 # Описание данных
